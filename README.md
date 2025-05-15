@@ -4,13 +4,15 @@ Ini adalah Project untuk mengerjakan tes untuk penerimaan magang di STTI-NIIT, P
 
 ## Additional information
 
-untuk login sebagai 'admin' cukup pakai 
-user: admin
-password: password
+untuk login sebagai 'admin' cukup pakai:
+<br>user: admin
+<br>password: password
 
-dan untuk login sebagai 'user' cukup pakai
-user: user
-password: useraja123
+dan untuk login sebagai 'user' cukup pakai:
+<br>user: user
+<br>password: useraja123
+
+akun diatas merupakan akun default yang sudah dibuat secara automatis dari konfigurasi yang telah dibuat
 
 ## Fitur-fitur pada project
 - Login & Register
