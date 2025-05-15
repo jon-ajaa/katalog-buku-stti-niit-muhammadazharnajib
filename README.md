@@ -1,6 +1,6 @@
 ## About This Project
 
-Ini adalah Project untuk mengerjakan tes untuk penerimaan magang di STTI-NIIT, Project ini menggunakan bahasa pemrograman Laravel + Breeze untuk auntentikasi login/register
+Ini adalah Project untuk mengerjakan tes untuk penerimaan magang di STTI-NIIT, Project ini menggunakan bahasa pemrograman Laravel + Breeze untuk auntentikasi login/register, serta menggunakan MySQL PHPMyAdmin untuk database penyimpanan data²(kategori, buku, dsn user) dengan nama katalog_buku
 
 ## Additional information
 
